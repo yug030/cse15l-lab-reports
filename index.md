@@ -1,4 +1,4 @@
-[Lab Report 1 Week 2](cse15l_lab_report_1\index.html)
+[Lab Report 1 Week 2](cse15l_lab_report_1\cse15l_lab_report_1.html)
 
 [Lab Report 2 Week 4](cse15l_lab_report_2\index.md)
 
