@@ -6,4 +6,4 @@
 
 [Lab Report 4 Week 8](cse15l_lab_report_4/cse15l_lab_report_4.html) Editing MarkdownParse
 
-[Lab Report 5 Week 10](cse15l_lab_report_5/cse15l_lab_report_5.html)
+[Lab Report 5 Week 10](cse15l_lab_report_5/cse15l_lab_report_5.html) Finding the difference and debugging

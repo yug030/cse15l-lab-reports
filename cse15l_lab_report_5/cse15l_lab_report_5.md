@@ -1,6 +1,6 @@
 <div style="text-align:center;background-color:#e0ffff;">
     <p style="font-family:Times New Roman;font-size:60px" > <b>CSE15L lab 5</b></p>
-    <p style="color:blue;font-style:italic;font-size:20px"> Editing MarkdownParse</p> 
+    <p style="color:blue;font-style:italic;font-size:20px"> Finding the difference and debugging</p> 
 </div>
 
 > We can run all test files with the code shown below:
